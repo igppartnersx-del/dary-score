@@ -1,0 +1,22 @@
+[theme]
+# Couleurs principales DARY
+primaryColor = "#3CE58E"
+backgroundColor = "#0B2239"
+secondaryBackgroundColor = "#1a3555"
+textColor = "#FFFFFF"
+
+# Police
+font = "sans serif"
+
+# Configuration du serveur
+[server]
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = true
+
+# Configuration du navigateur
+[browser]
+gatherUsageStats = false
+serverAddress = "0.0.0.0"
+serverPort = 8501

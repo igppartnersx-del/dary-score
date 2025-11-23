@@ -1,0 +1,11 @@
+nom_projet,type_bien,etat,surface,qualite_construction,zone,dist_ecoles,dist_commerces,dist_transport,dist_hopitaux,developpement_futur,ticket_minimum,roi_projete,rendement_locatif,plus_value_estimee,reputation_promoteur,liquidite,garanties
+Résidence Anfa Place,appartement,neuf,120,premium,premium,1.0,0.5,0.3,2.0,fort,150000,14.5,6.5,25,excellente,elevee,True
+Villa Californie,villa,ready,280,luxe,prime,1.5,1.0,0.8,3.0,moyen,450000,12.0,5.5,20,bonne,moyenne,True
+Studio Marina Bay,studio,off-plan,45,standard,emergente,2.5,1.5,0.5,4.0,fort,35000,16.0,7.5,30,moyenne,elevee,False
+Riad Médina,riad,renovation,180,premium,prime,0.5,0.2,1.0,2.5,moyen,250000,11.0,8.0,15,bonne,moyenne,True
+Appartement Bouskoura Golf,appartement,ready,95,premium,premium,0.8,1.2,2.0,1.5,fort,120000,13.5,6.0,22,excellente,elevee,True
+Terrain Benslimane,terrain,neuf,500,standard,emergente,3.0,2.5,5.0,6.0,fort,80000,18.0,0.0,35,moyenne,faible,False
+Duplex Hay Riad,appartement,neuf,160,luxe,premium,0.5,0.3,0.2,1.0,moyen,280000,10.5,5.0,18,excellente,elevee,True
+Studio Val Fleuri,studio,ready,38,standard,standard,2.0,1.0,0.8,3.5,faible,25000,9.0,6.5,12,moyenne,moyenne,False
+Villa Souissi,villa,neuf,350,luxe,premium,0.8,1.0,1.5,2.0,moyen,650000,11.5,4.5,20,excellente,moyenne,True
+Appartement Gauthier,appartement,off-plan,85,premium,prime,1.2,0.5,0.3,2.5,fort,95000,15.0,7.0,28,bonne,elevee,True
